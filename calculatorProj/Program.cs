@@ -10,7 +10,9 @@ namespace calculatorProj
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("hello world 1");
+            Console.WriteLine("hello world ");
+            Console.WriteLine("hello world ");
+
             Console.Read();
         }
     }
