@@ -12,6 +12,7 @@ namespace calculatorProj
         {
             Console.WriteLine("hello world ");
             Console.WriteLine("hello world ");
+            Console.WriteLine("hello world ");
 
             Console.Read();
         }
