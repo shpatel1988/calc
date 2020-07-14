@@ -13,7 +13,8 @@ namespace calculatorProj
             Console.WriteLine("hello world ");
             Console.WriteLine("hello world ");
             Console.WriteLine("hello world ");
-
+            string str =Console.ReadLine();
+            Console.WriteLine($"You have entered {str}");
             Console.Read();
         }
     }
